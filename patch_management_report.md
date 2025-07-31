@@ -182,7 +182,7 @@ If we ignore patches our system stays open to known attacks. Hackers often targe
 
 
 
-           Patch management is a crucial part of cybersecurity that protects systems from known vulnerabilities. By regularly applying patches, testing updates, and automating the process where possible, organizations can prevent major cyberattacks and ensure their systems remain secure, stable, and up to date.
+&nbsp;           Patch management is a crucial part of cybersecurity that protects systems from known vulnerabilities. By regularly applying patches, testing updates, and automating the process where possible, organizations can prevent major cyberattacks and ensure their systems remain secure, stable, and up to date.
 
 &nbsp;         It ensures that systems are updated with the latest security fixes, reducing the risk of exploitation through known vulnerabilities. Cyberattacks like WannaCry highlight the dangers of delayed patching, which can lead to data breaches, financial loss, and operational disruptions.
 
