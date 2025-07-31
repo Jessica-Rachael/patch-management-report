@@ -18,7 +18,7 @@
 
   
 
-1. Asset inventory and discovery:
+1\. Asset inventory and discovery:
 
 &nbsp;          Understanding all hardware, software and connected devices that needs to be patched.
 
