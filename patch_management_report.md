@@ -64,7 +64,7 @@
 
 
 
-1. Fixes vulnerabilities:
+1\. Fixes vulnerabilities:
 
 &nbsp;        Software often has some weaknesses called vulnerabilities and hackers try to exploit these to gain access. Patching these flaws closes the doors on attackers before they can strike.
 
@@ -98,9 +98,9 @@
 
 
 
-1. Hack into systems:
-1. 
-**&nbsp;**        Hackers can break into the systems by using the weak points. Once they enter they can take control of the computer, server, or network.
+1\. Hack into systems:
+ 
+&nbsp;        Hackers can break into the systems by using the weak points. Once they enter they can take control of the computer, server, or network.
 
 
 
