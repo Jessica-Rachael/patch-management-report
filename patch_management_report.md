@@ -124,7 +124,7 @@ If we ignore patches our system stays open to known attacks. Hackers often targe
 
    
 
-        A prominent real life example is the WANNACRY ransomware attack in 2017, which exploited a known vulnerability in Microsoft windows for which a patch had already been released but was not applied by many organizations, leading to widespread infections across hundreds of thousands of computers globally.
+&nbsp;       A prominent real life example is the WANNACRY ransomware attack in 2017, which exploited a known vulnerability in Microsoft windows for which a patch had already been released but was not applied by many organizations, leading to widespread infections across hundreds of thousands of computers globally.
 
 
 
