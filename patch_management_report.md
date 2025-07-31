@@ -130,7 +130,7 @@ If we ignore patches our system stays open to known attacks. Hackers often targe
 
 &nbsp;       Ransomware is a type of malware that locks our computer or files and attacks for money to unlock them.
 
-&nbsp;   
+ 
 
 &nbsp;       WannaCry used a known vulnerability in Microsoft windows. Microsoft had already released a security patch to fix this weakness two months earlier. But many people and organizations did not update their systems with that patch. As a result, their computers were left unprotected.
 
@@ -185,8 +185,7 @@ If we ignore patches our system stays open to known attacks. Hackers often targe
 &nbsp;           Patch management is a crucial part of cybersecurity that protects systems from known vulnerabilities. By regularly applying patches, testing updates, and automating the process where possible, organizations can prevent major cyberattacks and ensure their systems remain secure, stable, and up to date.
 
 &nbsp;         It ensures that systems are updated with the latest security fixes, reducing the risk of exploitation through known vulnerabilities. Cyberattacks like WannaCry highlight the dangers of delayed patching, which can lead to data breaches, financial loss, and operational disruptions.
-
-&nbsp;        
+        
 
 &nbsp;         An effective patch management strategy built on regular updates, thorough testing, clear policies, and automation helps organizations stay secure, compliant, and resilient against evolving cyber threats.
 
